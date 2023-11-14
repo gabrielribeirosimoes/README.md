@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielribeirosimoes/)
 
-I'm Gabriel Ribeiro Simões, a dedicated professional looking for opportunities that will allow me to grow and improve my career. With a degree in Administration Technician from ETEC Professor Camargo Aranha and in Metro Railway Transport from ETEC de São Paulo, I developed a solid educational base that allows me to approach challenges with confidence and competence. I'm committed to contributing meaningfully to the teams and organizations I may be a part of by applying my knowledge and experience effectively.
+I'm Gabriel Ribeiro Simões, a dedicated professional looking for opportunities that will allow me to grow and improve my career. I am a graduate of a technical course in administration from ETEC Professor Camargo Aranha and in Metro Railway Transport from ETEC de São Paulo, I developed a solid educational base that allows me to approach challenges with confidence and competence. I'm committed to contributing meaningfully to the teams and organizations I may be a part of by applying my knowledge and experience effectively.
 
 Currently, I'm expanding my knowledge and exploring new horizons as a student on the technical course in Systems Development at ETEC Professor Horácio Augusto da Silveira.
 
