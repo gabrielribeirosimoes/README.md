@@ -18,6 +18,3 @@ Currently, I'm expanding my knowledge and exploring new horizons as a student on
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielribeirosimoes&show_icons=true&bg_color=00000000"/>
   </a>
 </div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gabrielribeirosimoes&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Ribeiro Simoes" />
-</p>
