@@ -1,20 +1,40 @@
-<br>
-
-- 💻 Application Developer at IBM
-- 📚 Knowledge in: C# | Java | JavaScript | Angular | React | Node.js | HTML | CSS
-- 💡 Skills: Problem Solving | Design Thinking | Agile
-- 📧 Contact: gabrielribeirosimoes@hotmail.com
+<h2>About Me</h2>
+  <p>
+   - 💻 Application Developer at IBM<br>
+   - 💡 Skills: Problem Solving | Design Thinking | Agile<br>
+   - 📧 Contact: gabrielribeirosimoes@hotmail.com<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielribeirosimoes/)
 
-I'm Gabriel Ribeiro Simões, a dedicated professional looking for opportunities that will allow me to grow and improve my career. I am a graduate of a technical course in administration from ETEC Professor Camargo Aranha and in Metro Railway Transport from ETEC de São Paulo, I developed a solid educational base that allows me to approach challenges with confidence and competence. I'm committed to contributing meaningfully to the teams and organizations I may be a part of by applying my knowledge and experience effectively.
+I'm Gabriel Ribeiro Simões, a dedicated professional looking for opportunities to grow and advance in my career. I graduated from a technical course in administration at ETEC Professor Camargo Aranha and in Metro Railway Transport at ETEC de São Paulo. My education provides a strong foundation, allowing me to confidently tackle challenges. I'm committed to making meaningful contributions to teams and organizations by applying my knowledge and experience effectively.
 
-Currently, I'm expanding my knowledge and exploring new horizons as a student on the technical course in Systems Development at ETEC Professor Horácio Augusto da Silveira.
-
+Currently, I'm expanding my knowledge as a student in Systems Development at ETEC Professor Horácio Augusto da Silveira.
+<br>
+  <h2>Languages and Frameworks</h2>
+  <div style="display: inline-block">
+    <img class="icon-spacing" alt="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img class="icon-spacing" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img class="icon-spacing" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img class="icon-spacing" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img class="icon-spacing" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img class="icon-spacing" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img class="icon-spacing" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img class="icon-spacing" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </div>
 <div align="center">
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielribeirosimoes&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gabriel Ribeiro Simoes" />
-  <a href="https://beacons.ai/gabrielribeirosimoes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielribeirosimoes&show_icons=true&bg_color=00000000"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielribeirosimoes&layout=compact&theme=dark" alt="Gabriel Ribeiro Simoes Top Languages" height="180em" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gabrielribeirosimoes&show_icons=true&theme=dark" alt="Gabriel Ribeiro Simoes GitHub Stats" height="180em" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+
