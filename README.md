@@ -1,5 +1,6 @@
-<h2>About Me</h2>
+<h2>Hi, I'm Gabriel Ribeiro Simões, and I like to study system development.</h2>
   <p>
+    About Me: <br>
    - 💻 Application Developer at IBM<br>
    - 💡 Skills: Problem Solving | Design Thinking | Agile<br>
    - 📧 Contact: gabrielribeirosimoes@hotmail.com<br>
