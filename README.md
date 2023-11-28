@@ -1,4 +1,4 @@
-<h2>Hi, I'm Gabriel Ribeiro Simões, and I like to study system development.</h2>
+<h2>Hello, welcome to my GitHub profile.</h2>
   <p>
     About Me: <br>
    - 💻 Application Developer at IBM<br>
