@@ -1,7 +1,6 @@
 <h2>Hello, welcome to my GitHub profile.</h2>
   <p>
     About Me: <br>
-   - 💻 Application Developer at IBM<br>
    - 💡 Skills: Problem Solving | Design Thinking | Agile<br>
    - 📧 Contact: gabrielribeirosimoes@hotmail.com<br>
 
