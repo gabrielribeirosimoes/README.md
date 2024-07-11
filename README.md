@@ -1,16 +1,16 @@
-<h2>Hello, welcome to my GitHub profile.</h2>
+<h2>Olá, bem-vindo ao meu perfil do GitHub.</h2>
   <p>
-    About Me: <br>
+    Sobre mim: <br>
    - 💡 Skills: Problem Solving | Design Thinking | Agile<br>
-   - 📧 Contact: gabrielribeirosimoes@hotmail.com<br>
+   - 📧 Contato: gabrielribeirosimoes@hotmail.com<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielribeirosimoes/)
 
-I'm Gabriel Ribeiro Simões, a dedicated professional looking for opportunities to grow and advance in my career. I graduated from a technical course in administration at ETEC Professor Camargo Aranha and in Metro Railway Transport at ETEC de São Paulo. My education provides a strong foundation, allowing me to confidently tackle challenges. I'm committed to making meaningful contributions to teams and organizations by applying my knowledge and experience effectively.
+Sou formado em Desenvolvimento de Sistemas pela ETEC Professor Horácio Augusto da Silveira, com formação técnica em Administração e Transporte Metroviário. No momento, atuo como Agente de Prevenção a Fraude Jr. na Acert Online, onde realizo análises detalhadas para validar a legitimidade de transações e documentos. Tenho interesse em aplicar meus conhecimentos em tecnologia e prevenção de fraudes em projetos desafiadores e inovadores, que possam gerar impacto positivo na sociedade. Atualmente, estou indo para o segundo semestre do tecnólogo em Gestão de Tecnologia da Informação pela UFMS.
 
-Currently, I'm expanding my knowledge as a student in Systems Development at ETEC Professor Horácio Augusto da Silveira.
+Recentemente, estagiei na IBM como Application Developer, adquirindo expertise em Java, React, Node.js e Angular. Durante esse período, especializei-me em metodologias ágeis e Design Thinking, colaborando eficazmente em equipes multidisciplinares. Obtive certificações da IBM em Garage Essentials, Enterprise Design Thinking Practitioner e IBM Consulting Way. Meu objetivo é continuar aprendendo e me desenvolvendo como profissional, buscando oportunidades de crescimento e aprimoramento contínuo, especialmente na interseção entre tecnologia e segurança.
 <br>
-  <h2>Languages and Frameworks</h2>
+  <h2>Linguagens e Frameworks</h2>
   <div style="display: inline-block">
     <img class="icon-spacing" alt="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img class="icon-spacing" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
